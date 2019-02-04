@@ -1,0 +1,13 @@
+c:\users\patryk\source\repos\FTPReadApp\FTPReadApp\bin\Debug\FTPReadApp.exe.config
+c:\users\patryk\source\repos\FTPReadApp\FTPReadApp\bin\Debug\FTPReadApp.exe
+c:\users\patryk\source\repos\FTPReadApp\FTPReadApp\bin\Debug\FTPReadApp.pdb
+c:\users\patryk\source\repos\FTPReadApp\FTPReadApp\obj\Debug\FTPReadApp.csprojAssemblyReference.cache
+c:\users\patryk\source\repos\FTPReadApp\FTPReadApp\obj\Debug\FTPReadApp.Form1.resources
+c:\users\patryk\source\repos\FTPReadApp\FTPReadApp\obj\Debug\FTPReadApp.Properties.Resources.resources
+c:\users\patryk\source\repos\FTPReadApp\FTPReadApp\obj\Debug\FTPReadApp.csproj.GenerateResource.cache
+c:\users\patryk\source\repos\FTPReadApp\FTPReadApp\obj\Debug\FTPReadApp.csproj.CoreCompileInputs.cache
+c:\users\patryk\source\repos\FTPReadApp\FTPReadApp\obj\Debug\FTPReadApp.exe
+c:\users\patryk\source\repos\FTPReadApp\FTPReadApp\obj\Debug\FTPReadApp.pdb
+c:\users\patryk\source\repos\FTPReadApp\FTPReadApp\obj\Debug\FTPReadApp.AddLocation.resources
+C:\Users\Patryk\source\repos\FTPReadApp\FTPReadApp\obj\Debug\FTPReadApp.Form2.resources
+C:\Users\Patryk\source\repos\FTPReadApp\FTPReadApp\obj\Debug\FTPReadApp.Form3.resources
